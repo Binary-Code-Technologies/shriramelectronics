@@ -2007,7 +2007,7 @@ ul.link li {
      display: inline-block;
      padding: 8px 15px;
      
-     
+        
 }
 ul.link li a {
      color: #fff;
@@ -2060,7 +2060,7 @@ ul.location_icon span {
      font-weight: 400;
 }
 .copyright {
-     background: #fff;
+     /* background: #fff; */
      padding: 20px 0px 20px 0;
      margin-top: 50px;
 }
@@ -2157,3 +2157,11 @@ ul.location_icon span {
 .special-page .relative  {text-align:center !important; }
 
 .special-page .footer {margin-top: 90px;}
+
+table,td,tr{
+     text-align: left;
+     color: white;
+}
+td{
+     padding: 0.5rem;
+}
