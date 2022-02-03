@@ -1865,6 +1865,7 @@ border-radius: 50px;
      background: #fff;
      text-align: center;
      padding: 80px 0px 30px 0px ;
+     margin-top: 50px;
 }
 .brand-bg .brand_box > img {
     height: 200px;
@@ -1940,8 +1941,8 @@ margin-top: 40px
 }
 
 .contact .main_form {
-     background: #fff;
-    box-shadow: #ddd 0px 0px 19px 1px;
+     background: rgb(231, 13, 13);
+    box-shadow: rgb(215, 221, 127) 0px 0px 19px 1px;
     padding: 40px;
 } 
 
