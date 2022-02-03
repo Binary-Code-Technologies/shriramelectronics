@@ -1344,7 +1344,8 @@ ul.top_icon li a {
      height: 100%;
      padding-left: 0;
      padding-right: 0;
-     z-index: 5;
+     z-index: 15;
+     
 }
 .swiper-container {
      width: 100%;
@@ -1705,6 +1706,7 @@ color: #fff;
      padding-top: 90px ;
      padding-bottom: 84px ;
      background: url(../images/aboutbg.jpg);
+    
     background-position-x: 0%;
     background-position-y: 0%;
     background-repeat: repeat;
@@ -1720,15 +1722,17 @@ color: #fff;
 
 .about .about_box {
      text-align: right;
-     padding-top: 130px;
+     padding-top: 110px;
 }
 
 .about .about_box h3 {
      font-weight: bold;
-     font-size: 30px;
+     font-size: 32px;
      color: #888687;
      line-height: 32px;
      padding-bottom: 7px;
+     padding-top: 7px;
+
     display: block;
 }
 
@@ -1742,9 +1746,9 @@ display: block
 }
 
 .about .about_box p {
-     font-size: 17px;
+     font-size: 28px;
      line-height: 30px;
-     color: #23242a;
+     color: #010413;
 }
 
 .about_box_ span {
@@ -1776,7 +1780,7 @@ display: block
 }
 
 .clients_red {
-     background: #ff0000;
+     background: #180101;
      padding-top: 90px;
      padding-bottom:110px;
 } 
@@ -2085,7 +2089,7 @@ ul.location_icon span {
 /*--------------------------------------------------------------------- inner_page css ---------------------------------------------------------------------*/
 
 .brand_color {
-     background-color: #ddd;
+     background-color: rgb(233, 213, 213);
 }
 .brand_color .titlepage {
      margin-top: 90px;
